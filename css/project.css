@@ -63,11 +63,10 @@ nav {
 }
 
 nav a {
-	float: left;
-    display: block;
-    width: 75px;
+    display: inline-block;
+    width: 100px;
     color: #FFF;
-    padding: 5px 0; 
+    padding: 5px 0;
 }
 
 nav a:link, nav a:visited {
