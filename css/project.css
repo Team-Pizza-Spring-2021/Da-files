@@ -31,6 +31,18 @@ body {
     margin-bottom: 20px;
 }
 
+.img-left-deals {
+	display: block;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.img-right-deals {
+	display: block;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
 header, nav, footer {
 	background-color: rgba(50,50,50,.8);
     color: #eee;
